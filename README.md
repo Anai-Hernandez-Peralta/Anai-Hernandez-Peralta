@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **JavaScript**
 
-- 💬 Ask me about **The kittens**
+- 💬 Ask me about **Kittens**
 
 - 📫 How to reach me **anaihernandezperalta@gmail.com**
 
