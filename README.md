@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anai-hernandez-peralta" alt="anai-hernandez-peralta" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/anai_h47098" target="blank"><img src="https://img.shields.io/twitter/follow/anai_h47098?logo=twitter&style=for-the-badge" alt="anai_h47098" /></a> </p>
-
 
 - 👯 I’m looking to collaborate on **Open source**
 
