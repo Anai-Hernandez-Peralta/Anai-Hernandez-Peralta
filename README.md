@@ -7,13 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/anai_h47098" target="blank"><img src="https://img.shields.io/twitter/follow/anai_h47098?logo=twitter&style=for-the-badge" alt="anai_h47098" /></a> </p>
 
-- 🔭 I’m currently working on [Dominó Matemático](https://github.com/Fernando-Mauro/DominoMatematico.git)
-
-- 🌱 I’m currently learning **JavaScript**
 
 - 👯 I’m looking to collaborate on **Open source**
-
-- 🤝 I’m looking for help with **JavaScript**
 
 - 💬 Ask me about **Kittens**
 
