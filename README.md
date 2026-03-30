@@ -1,13 +1,13 @@
 <h1 align="center"> 🌸¡Hola! Soy Anaí Hernández Peralta 🐱</h1>
 <h3 align="center"> 👩‍💻Una joven estudiante y programadora de México</h3>
 
-<p align="center"> Actualmente estudio en el <b>Instituo Tecnológico del Valle de Oaxaca</b>, enfocado en Ingeniería en Ciencia de Datos. Me apasiona resolver problemas mediante código y aprender cosas nuevas.</p>
+<p align="center"> Actualmente estudio la carrera de <b>Ingeniería en Ciencia de Datos</b> en el <b>Instituto Tecnológico del Valle de Oaxaca</b>. Me apasiona resolver problemas mediante código y aprender cosas nuevas.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anai-hernandez-peralta&label=Profile%20views&color=0e75b6&style=flat" alt="anai-hernandez-peralta" /> </p>
 
-- 📫 Contactame: **anaihernandezperalta@gmail.com**
+- 📫 Contáctame: **anaihernandezperalta@gmail.com**
 
-- 🙀⚡ Dato curioso **Tengo 3 gatos**
+- 🙀⚡ Dato curioso: **Tengo 3 gatos**
 
 <h3 align="left">Conectemos🐱:</h3>
 <p align="left">
