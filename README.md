@@ -1,7 +1,7 @@
 <h1 align="center"> 🌸¡Hola! Soy Anaí Hernández Peralta 🐱</h1>
 <h3 align="center"> 👩‍💻Una joven estudiante y programadora de México</h3>
 
-<p align="center"> Actualmente soy estudiante en <b>Instituo Tecnológico del Valle de Oaxaca</b>, enfocado en Ingeniería en Ciencia de Datos. Me apasiona resolver problemas mediante código y aprender cosas nuevas.</p>
+<p align="center"> Actualmente estudio en el <b>Instituo Tecnológico del Valle de Oaxaca</b>, enfocado en Ingeniería en Ciencia de Datos. Me apasiona resolver problemas mediante código y aprender cosas nuevas.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anai-hernandez-peralta&label=Profile%20views&color=0e75b6&style=flat" alt="anai-hernandez-peralta" /> </p>
 
